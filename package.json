@@ -1,0 +1,9 @@
+{
+  "name": "elf-multiple-page-template",
+  "version": "1.0.0",
+  "description": "ELF Multiple Page Template",
+  "scripts": {
+    "start": "elf start",
+    "build": "elf build"
+  }
+}
