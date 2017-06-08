@@ -1,5 +1,4 @@
-require('../css/common.css')
-require('../css/page.css')
+require('../css/package-page.scss')
 
 require('./lib/common')
 

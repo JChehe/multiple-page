@@ -1,5 +1,4 @@
-require('../css/common.css')
-require('../css/index.css')
+require('../css/package-index.scss')
 
 require('./lib/common')
 
